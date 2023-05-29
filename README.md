@@ -1,6 +1,6 @@
 # Using Axios with React Native to manage API requests
 
-This is a simple demo for the [Using Axios with React Native to manage API requests](https://blog.logrocket.com/using-axios-react-native-manage-api-requests/) article published on Logrocket.
+This is a simple demo for the [Using Axios with React Native to manage API requests](https://blog.logrocket.com/using-axios-react-native-manage-api-requests/) article published on the LogRocket blog.
 
 ## Setup Instructions
 
@@ -12,4 +12,4 @@ This is a simple demo for the [Using Axios with React Native to manage API reque
 npm install 
 ```
 
-- Use one of the scripts in the `package.json` file to start the project for Android, IOS, or the Web.
+- Use one of the scripts in the `package.json` file to start the project for Android, iOS, or the Web.
