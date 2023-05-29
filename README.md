@@ -13,3 +13,7 @@ npm install
 ```
 
 - Use one of the scripts in the `package.json` file to start the project for Android, iOS, or the Web.
+
+## Screenshots
+
+![Google Pixel 3a on Android Emulator showing a user's name and image](./screenshots/react-native-axios-get-user.png)
